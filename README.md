@@ -2,7 +2,7 @@
 
 I am a student and developer with a passion for building practical tools that improve daily life and workflow. My journey involves exploring **Data Science** and **Web Development**, turning ideas into systems that help with health, learning, and productivity.
 
-![maco-ovo's Stats](https://github-readme-stats.vercel.app/api?username=maco-ovo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![maco-ovo's Stats](https://github-readme-stats.vercel.app/api?username=maco-ovo&theme=vue-dark&show_icons=true&hide_border=true)
 ## 🚀 About Me
 
 - 📍 Based in **Canada**
