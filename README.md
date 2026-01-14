@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Makoto! 👋
 
-<!--
-**maco-ovo/maco-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student and developer with a passion for building practical tools that improve daily life and workflow. My journey involves exploring **Data Science** and **Web Development**, turning ideas into systems that help with health, learning, and productivity.
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=maco-ovo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📍 Based in **Canada**
+- 🎓 Currently studying **Web Development / Data Science**
+- 💼 Working on streamlining workflows and data management.
+- 🎯 My goal: To build applications that solve real-world problems.
+
+
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,git,mysql,vscode)](https://skillicons.dev)
+
+## 📬 Get in Touch
+
+- 💼 LinkedIn: Makoto Arata(www.linkedin.com/in/makoto-arata-567455382)
+- 📧 Email: [aratamakoto2025@gmail.com]
+
+---
+Thanks for stopping by! 🚀
