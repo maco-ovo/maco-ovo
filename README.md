@@ -1,9 +1,11 @@
 # Hi, I'm Makoto! 👋
 
 > **An insatiable learner**
-> with a strong passion for **Full Stack Web Development** and **Data Science**.    
+> with a strong passion for **Full Stack Web Development** and **Data Science**.
 
-## 🚀 About Me
+![Maco's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=maco-ovo&show_icons=true&rank_icon=github)
+
+## 🐱 About Me
 
 - 📍 Based in **Vancouver, Canada**
 - 🎓 Currently studying **Web Development / Data Science**
@@ -12,7 +14,7 @@
 
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,git,vscode)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maco-ovo&layout=compact)
 
 - **Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
 - **Database:** PostgreSQL, SQL
