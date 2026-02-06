@@ -9,20 +9,21 @@
 
 - 📍 Based in **Vancouver, Canada**
 - 🎓 Currently studying **Web Development / Data Science**
-- 💻 Currently focusing on: **SQL, Python, and Web Technologies**
+- 💻 Currently focusing on: **JavaScript, SQL, Python, and Web Technologies**
 - 🗣️ Languages: **English, Japanese**
 
 
 ## 🛠 Tech Stack
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maco-ovo&layout=compact)
 
+- **Web Development:** JavaScript
 - **Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
 - **Database:** PostgreSQL, SQL
-- **Development:** Git, VS Code
+- **Tools:** Git, VS Code
 
 ## 🌱 What I'm Learning
 I am currently bridging the gap between Data Analysis and Application Development:   
-- **Advanced Data Science:** Building on my experience with Pandas and visualization, I am now mastering **Statistics** (Probability & Distributions) to prepare for **Machine Learning**.
+- **Advanced Data Science:** Building on my experience with Pandas and visualization, I am now learning **Machine Learning**.
 - **Backend:** Learning how to structure databases and server-side logic.
 - **Frontend:** Exploring how to create responsive user interfaces.
 - **Goal:** To become a full-stack developer capable of managing the full data lifecycle, from storage to user presentation.
