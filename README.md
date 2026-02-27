@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maco-ovo&layout=compact)
 
-- **Web Development:** JavaScript
+- **Web Development:** JavaScript, html, css
 - **Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
 - **Database:** PostgreSQL, SQL
 - **Tools:** Git, VS Code
